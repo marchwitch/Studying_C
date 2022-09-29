@@ -2,9 +2,9 @@
 //Console.SetCursorPosition(10, 4);
 //Console.WriteLine("+");
 
-int xa = 40, ya = 1,
-    xb = 1, yb = 30,
-    xc = 80, yc = 30;
+int xa = 45, ya = 1,
+    xb = 1, yb = 35,
+    xc = 90, yc = 35;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
